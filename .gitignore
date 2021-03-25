@@ -4,3 +4,10 @@
 *.iws
 *.iml
 *.ipr
+
+target/
+/maven-batch/target/
+/maven-business/target/
+/maven-consumer/target/
+/maven-model/target/
+/maven-webapp/target/
